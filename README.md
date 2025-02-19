@@ -32,4 +32,4 @@ I’m always eager to learn new technologies and apply AI and design in various 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=domyrendev&show_icons=true&locale=en" alt="domyrendev" /></p>
 
-
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21yqpt4cwfjodmynpxobd7pvy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21yqpt4cwfjodmynpxobd7pvy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
