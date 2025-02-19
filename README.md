@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domyrendev&label=Profile%20views&color=0e75b6&style=flat" alt="domyrendev" /> </p>
 
+Hi! I’m **Domenico Del Prete (or Ren)**, a tech enthusiast with a passion for data science, artificial intelligence, and web design. I’m currently taking a course to become a Data Analyst and develop skills in AI. At the moment, I’m involved in an exciting project where we analyze Formula 1 data to identify the optimal window for a pit stop, aiming to optimize team strategies. In addition to that, I also have experience in web design, creating functional and visually appealing websites with a strong focus on usability and user experience. My passion for data analysis, design, and problem-solving drives me to constantly explore new technologies and solutions to apply AI and design in various contexts. I’m always looking for new challenges and opportunities to grow professionally!
+
+
+
 - 🧠 I am taking a course in **Data Analysis & AI Development**
 
 - 🌱 I’m currently learning **Unity, Machine Learning**
