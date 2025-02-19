@@ -30,6 +30,6 @@ I’m always eager to learn new technologies and apply AI and design in various 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=domyrendev&show_icons=true&locale=en&layout=compact" alt="domyrendev" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21yqpt4cwfjodmynpxobd7pvy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21yqpt4cwfjodmynpxobd7pvy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21yqpt4cwfjodmynpxobd7pvy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21yqpt4cwfjodmynpxobd7pvy&redirect=true)
 
 
