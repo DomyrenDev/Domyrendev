@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domyrendev&label=Profile%20views&color=0e75b6&style=flat" alt="domyrendev" /> </p>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Unity, I am taking a course in Data Analysis & AI Development**
 
 - 💬 Ask me about **my project**
 
