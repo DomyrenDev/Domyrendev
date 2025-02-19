@@ -5,9 +5,9 @@
 
 - 🧠 I am taking a course in **Data Analysis & AI Development**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Unity, Machine Learning**
 
-- 💬 Ask me about **my project**
+- 💬 Ask me about **my projects**
 
 - 📫 How to reach me **domenicodelpretedev@gmail.com**
 
